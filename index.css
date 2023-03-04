@@ -1,0 +1,23 @@
+
+   .media-icons i {
+      font-size: 30px;
+      background-color: white;
+      background-color: transparent;
+    }
+    #ins:hover{
+      color: rgb(255, 0, 0);
+    }
+    #fb:hover{
+      color: rgb(0, 0, 0);
+    }
+    #ins{
+      color: rgb(255, 255, 255);
+    }
+    #fb{
+      color: rgb(255, 255, 255);
+    }
+    #title{
+      font-family: initial;
+    }
+
+    
